@@ -1,4 +1,4 @@
-![Open Source](https://github.com/ouranos-gex/.github/blob/main/images/oelogo_mid.png)
+<img src="https://github.com/ouranos-gex/.github/blob/main/images/oelogo_mid.png" width="45%">
 
 ## Ouranos Ecosystem (ウラノス・エコシステム)  4次元時空間情報基盤 関連リポジトリ
 
