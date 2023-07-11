@@ -1,4 +1,4 @@
-[Open Source at DADC](https://github.com/outanos-gex/.github/images/oelogo.png)
+[Open Source at DADC](https://github.com/outanos-gex/.github/images/oelogo_mid.png)
 
 ## Ouranos Ecosystem (ウラノス・エコシステム)  4次元時空間情報基盤 関連リポジトリ
 
