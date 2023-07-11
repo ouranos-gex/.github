@@ -1,14 +1,8 @@
-## Ouranos GEX
+[Open Source at DADC](https://github.com/outanos-gex/.github/images/oelogo.png)
 
+## Ouranos Ecosystem (ウラノス・エコシステム)  4次元時空間情報基盤 関連リポジトリ
 
+[経済産業省](https://www.meti.go.jp/policy/mono_info_service/digital_architecture/index.html)では、関係省庁や独立行政法人情報処理推進機構（IPA）のデジタルアーキテクチャ・デザインセンター（DADC）、国立研究開発法人 新エネルギー・産業技術総合開発機構（NEDO）とともに、運用及び管理を行う者が異なる複数の情報処理システムの連携の仕組みに関して、アーキテクチャの設計、研究開発・実証、社会実装・普及の取組（[ウラノス・エコシステム](https://www.meti.go.jp/policy/mono_info_service/digital_architecture/ouranos.html)）を進めています。
+その一環として、「[4 次元時空間情報基盤ガイドライン](https://www.ipa.go.jp/digital/architecture/project/autonomousmobilerobot/3dspatial_guideline.html)」を策定しており、Ouranos GEXでは、4次元時空間情報基盤を実装するための各種ライブラリやツール類を共創しています。
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Powered by Ministry of Economy,Trade and Industry
