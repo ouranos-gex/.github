@@ -1,4 +1,4 @@
-[Open Source at DADC](https://github.com/outanos-gex/.github/images/oelogo_mid.png)
+[Open Source at DADC](https://github.com/ouranos-gex/.github/images/oelogo_mid.png)
 
 ## Ouranos Ecosystem (ウラノス・エコシステム)  4次元時空間情報基盤 関連リポジトリ
 
@@ -6,3 +6,4 @@
 その一環として、「[4 次元時空間情報基盤ガイドライン](https://www.ipa.go.jp/digital/architecture/project/autonomousmobilerobot/3dspatial_guideline.html)」を策定しており、Ouranos GEXでは、4次元時空間情報基盤を実装するための各種ライブラリやツール類を共創しています。
 
 Powered by Ministry of Economy,Trade and Industry
+
