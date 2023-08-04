@@ -1,4 +1,4 @@
-![image](https://github.com/ouranos-gex/.github/assets/131420480/69edfc4d-0f97-430b-a640-79a5d1fba727)<img src="https://github.com/ouranos-gex/.github/blob/main/images/oelogo_mid.png" width="45%">
+<img src="https://github.com/ouranos-gex/.github/blob/main/images/oelogo_mid.png" width="45%">
 
 ## Ouranos Ecosystem (ウラノス・エコシステム)  4次元時空間情報基盤 関連リポジトリ
 
